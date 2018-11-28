@@ -1,32 +1,14 @@
-## Welcome to GitHub Pages
+## Greenwich Village
 
-Greenwich Village
+### Detailed Information
 
-### Markdown
+Zip Codes: 10003, 10011, 10012, 10014
+Census Tracts: 0055.01, 0057.00, 0059.00, 0061.00, 0063.00, 0065.00, 0067.00, 0069.00,
+0071.00, 0073.00, 0075.00, 0077.00, 0079.00
+Map of New York City with your neighborhood highlighted:
 
+A photo or image that captures your neighborhood:
 
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/simplybethly/Elizabeth-Lee/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The demographics of your neighborhood: Predominantly Non-Hispanic White
+The distance of your neighborhood to Federal Hall: 2.0 miles
+And to Empire State Building: 1.5 miles
