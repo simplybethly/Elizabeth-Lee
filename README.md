@@ -7,11 +7,14 @@ Census Tracts: 0055.01, 0057.00, 0059.00, 0061.00, 0063.00, 0065.00, 0067.00, 00
 0071.00, 0073.00, 0075.00, 0077.00, 0079.00
 
 Map of New York City with your neighborhood highlighted:
+
 ![Sorry! I'm broken](image002.png)
 
 A photo or image that captures your neighborhood:
 ![Sorry! I'm broken](image003.png)
 
 The demographics of your neighborhood: Predominantly Non-Hispanic White
+
 The distance of your neighborhood to Federal Hall: 2.0 miles
+
 And to Empire State Building: 1.5 miles
