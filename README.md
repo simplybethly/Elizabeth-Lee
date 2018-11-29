@@ -19,6 +19,6 @@ The distance of your neighborhood to Federal Hall: 2.0 miles
 
 And to Empire State Building: 1.5 miles
 
-### Accessible Location
+### Accessible Locations
 
 ![Sorry! I'm broken](csci.png)
