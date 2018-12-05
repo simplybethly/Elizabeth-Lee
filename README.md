@@ -23,3 +23,6 @@ And to Empire State Building: 1.5 miles
 ### Accessible Locations
 
 ![Sorry! I'm broken](csci.png)
+
+
+The turnstile data does not accurately depict how many people will be affected by this closure because the station also operates ACE trains. 
