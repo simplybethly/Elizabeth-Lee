@@ -1,6 +1,6 @@
-## Greenwich Village
+# Greenwich Village
 
-### Elizabeth Lee
+## Elizabeth Lee
 
 ### Detailed Information
 
