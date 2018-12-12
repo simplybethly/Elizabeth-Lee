@@ -27,8 +27,8 @@ And to Empire State Building: 1.5 miles
 ### Turnstile Data
 
 ![Sorry! I'm broken](Figure_1.png)
-![Sorry! I'm broken](turnstileEntries.png)
-![Sorry! I'm broken](turnstileExits.png)
+![Sorry! I'm broken](Figure_2.png)
+![Sorry! I'm broken](Figure_3.png)
 
 ### L Train Shutdown Effects
 
