@@ -12,12 +12,11 @@ Map of New York City with your neighborhood highlighted:
 ![Sorry! I'm broken](image002.png)
 
 A photo or image that captures your neighborhood:
+
 ![Sorry! I'm broken](image003.png)
 
 The demographics of your neighborhood: Predominantly Non-Hispanic White
-
 The distance of your neighborhood to Federal Hall: 2.0 miles
-
 And to Empire State Building: 1.5 miles
 
 ### Accessible Locations
